@@ -1,0 +1,21 @@
+[
+  {
+    "id": "0964b85c-e779-4db8-9d64-d9cb73c5610b",
+    "text": "Learn expressjs",
+    "complete": true
+  },
+  {
+    "id": "601ac5aa-452e-49f6-ad60-b498be0de744",
+    "text": "Learn React.js"
+  },
+  {
+    "id": "a43bfb7e-0b90-46cc-8b74-cebe4cea3167",
+    "text": "Learn nextjs",
+    "complete": true
+  },
+  {
+    "id": "47fb6de7-eaf5-49c0-b42b-918faaf9e78c",
+    "text": "Learn reactjs",
+    "complete": true
+  }
+]
